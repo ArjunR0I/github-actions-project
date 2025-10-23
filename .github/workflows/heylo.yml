@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Print a message 
         run: echo "🎉 Hello from GitHub Actions!" | echo "$$$$ Money Money Money $$$$" | echo "third run check"
-    steps: 
+  
       - name: say hello everyone
         run: echo "hello everyone here"
         
