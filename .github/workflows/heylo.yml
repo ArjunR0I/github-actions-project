@@ -12,4 +12,6 @@ jobs:
       - name: say hello everyone
         run: echo "hello everyone here"
         
-
+      - name: Good afternoon everyone 
+        run: echo "good afernoon everyone" 
+        
