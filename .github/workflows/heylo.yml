@@ -7,6 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print a message
-        run: echo "🎉 Hello from GitHub Actions!"
-        run: echo "$$$$ Money Money Money $$$$" 
+        run: echo "🎉 Hello from GitHub Actions!" | echo "$$$$ Money Money Money $$$$" 
 
