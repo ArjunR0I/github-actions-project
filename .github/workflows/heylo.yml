@@ -8,4 +8,5 @@ jobs:
     steps:
       - name: Print a message
         run: echo "🎉 Hello from GitHub Actions!"
+        run: ehco "$$$$ Money Money Money $$$$" 
 
