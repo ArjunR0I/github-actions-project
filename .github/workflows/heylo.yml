@@ -6,6 +6,6 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: Print a message
-        run: echo "🎉 Hello from GitHub Actions!" | echo "$$$$ Money Money Money $$$$" 
+      - name: Print a message 
+        run: echo "🎉 Hello from GitHub Actions!" | echo "$$$$ Money Money Money $$$$" | echo "third run check" 
 
